@@ -1,0 +1,15 @@
+{
+  "name": "my-express-test",
+  "version": "0.0.0",
+  "description": "MyExpressTest",
+  "main": "app.js",
+  "author": {
+    "name": "XuPeiYao",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
